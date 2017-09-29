@@ -1,7 +1,7 @@
 # Biomodd-mec10-
 Biomodd [MEC10] repository, Dodonaeus festival
 
-##TEAM GAMEDEV
+## TEAM GAMEDEV
 * SIM&COMM
   * Sander
   * Tijl
@@ -18,7 +18,7 @@ Biomodd [MEC10] repository, Dodonaeus festival
   * Michiel
   * Ruby
 
-##TEAM SENSORS
+## TEAM SENSORS
   * TEAM 1
     * Sarah
     * Dean
