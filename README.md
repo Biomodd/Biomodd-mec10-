@@ -1,5 +1,6 @@
 # Biomodd-mec10-
-Biomodd [MEC10] repository, Dodonaeus festival
+Biomodd [MEC10] repository, [Dodonaeus](http://www.dodonaeus.be)
+ festival
 
 ## TEAM GAMEDEV
 * SIM&COMM
